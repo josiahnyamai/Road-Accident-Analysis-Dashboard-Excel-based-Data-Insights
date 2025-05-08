@@ -6,6 +6,8 @@ This project presents an interactive Excel dashboard that analyzes road accident
 
 The dashboard is built using Microsoft Excel and incorporates charts, pivot tables, and slicers to present key performance indicators (KPIs) and trends.
 
+![Screenshot 2025-05-08 194848](https://github.com/user-attachments/assets/f5c8947f-e434-46a9-b071-991b1b292cdf)
+
 ### ✅ Primary KPIs:
 - **Total Casualties**: Displays the total number of casualties resulting from road accidents.
 - **Casualties by Accident Severity**: Shows the percentage distribution of casualties based on the severity of accidents (e.g., Fatal, Serious, Slight).
